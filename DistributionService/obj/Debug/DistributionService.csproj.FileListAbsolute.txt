@@ -1,0 +1,58 @@
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\bin\Debug\DistributionService.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\bin\Debug\DistributionService.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\bin\Debug\Container.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\bin\Debug\Distribution.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\bin\Debug\Newtonsoft.Json.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\bin\Debug\Services.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\bin\Debug\User.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\bin\Debug\ContainerLevels.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\bin\Debug\EntityFramework.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\bin\Debug\ContainerTypes.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\bin\Debug\CryptSharp.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\bin\Debug\Services.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\bin\Debug\Container.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\bin\Debug\Container.dll.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\bin\Debug\Distribution.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\bin\Debug\Distribution.dll.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\bin\Debug\User.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\bin\Debug\User.dll.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\bin\Debug\Newtonsoft.Json.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\bin\Debug\ContainerLevels.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\bin\Debug\EntityFramework.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\bin\Debug\ContainerTypes.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\bin\Debug\CryptSharp.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\bin\Debug\CryptSharp.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\obj\Debug\DistributionService.csproj.AssemblyReference.cache
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\obj\Debug\DistributionService.csproj.CoreCompileInputs.cache
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\obj\Debug\DistributionService.csproj.CopyComplete
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\obj\Debug\DistributionService.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\DistributionService\obj\Debug\DistributionService.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\bin\Debug\DistributionService.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\bin\Debug\DistributionService.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\bin\Debug\Container.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\bin\Debug\Distribution.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\bin\Debug\Services.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\bin\Debug\User.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\bin\Debug\ContainerLevels.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\bin\Debug\EntityFramework.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\bin\Debug\ContainerTypes.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\bin\Debug\CryptSharp.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\bin\Debug\Services.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\bin\Debug\Container.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\bin\Debug\Container.dll.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\bin\Debug\Distribution.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\bin\Debug\Distribution.dll.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\bin\Debug\User.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\bin\Debug\User.dll.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\bin\Debug\ContainerLevels.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\bin\Debug\EntityFramework.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\bin\Debug\ContainerTypes.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\bin\Debug\CryptSharp.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\bin\Debug\CryptSharp.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\obj\Debug\DistributionService.csproj.AssemblyReference.cache
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\obj\Debug\DistributionService.csproj.CoreCompileInputs.cache
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\obj\Debug\Distribu.8DD39510.Up2Date
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\obj\Debug\DistributionService.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\DistributionService\obj\Debug\DistributionService.pdb

@@ -1,0 +1,72 @@
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\Material.dll.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\Material.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\Material.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\Container.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\Distribution.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\EntityFramework.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\EntityFramework.SqlServer.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\History.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\Newtonsoft.Json.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\RFID.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\Services.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\User.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\ContainerLevels.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\ContainerTypes.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\CryptSharp.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\Services.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\Container.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\Container.dll.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\Distribution.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\Distribution.dll.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\History.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\RFID.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\User.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\User.dll.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\EntityFramework.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\EntityFramework.SqlServer.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\Newtonsoft.Json.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\ContainerLevels.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\ContainerTypes.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\CryptSharp.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\bin\Debug\CryptSharp.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\obj\Debug\Material.csproj.AssemblyReference.cache
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\obj\Debug\Material.csproj.CoreCompileInputs.cache
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\obj\Debug\Material.csproj.CopyComplete
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\obj\Debug\Material.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Material\obj\Debug\Material.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\Material.dll.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\Material.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\Material.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\Container.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\Distribution.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\EntityFramework.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\History.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\RFID.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\Services.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\User.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\ContainerLevels.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\ContainerTypes.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\CryptSharp.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\Services.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\Container.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\Container.dll.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\Distribution.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\Distribution.dll.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\History.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\RFID.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\User.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\User.dll.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\EntityFramework.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\ContainerLevels.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\ContainerTypes.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\CryptSharp.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\bin\Debug\CryptSharp.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\obj\Debug\Material.csproj.AssemblyReference.cache
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\obj\Debug\Material.csproj.CoreCompileInputs.cache
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\obj\Debug\Material.csproj.Up2Date
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\obj\Debug\Material.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Material\obj\Debug\Material.pdb

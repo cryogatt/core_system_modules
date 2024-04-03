@@ -1,0 +1,9 @@
+C:\Users\rnwokeji\source\repos\CryogattServer\Common\bin\Release\Services.dll
+C:\Users\rnwokeji\source\repos\CryogattServer\Common\bin\Release\Services.pdb
+C:\Users\rnwokeji\source\repos\CryogattServer\Common\bin\Release\Newtonsoft.Json.dll
+C:\Users\rnwokeji\source\repos\CryogattServer\Common\bin\Release\Newtonsoft.Json.xml
+C:\Users\rnwokeji\source\repos\CryogattServer\Common\obj\Release\Services.csproj.AssemblyReference.cache
+C:\Users\rnwokeji\source\repos\CryogattServer\Common\obj\Release\Services.csproj.CoreCompileInputs.cache
+C:\Users\rnwokeji\source\repos\CryogattServer\Common\obj\Release\Services.csproj.CopyComplete
+C:\Users\rnwokeji\source\repos\CryogattServer\Common\obj\Release\Services.dll
+C:\Users\rnwokeji\source\repos\CryogattServer\Common\obj\Release\Services.pdb

@@ -1,0 +1,18 @@
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Trace\bin\Debug\Cryogatt.RFID.Trace.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Trace\bin\Debug\Cryogatt.RFID.Trace.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Trace\bin\Debug\Newtonsoft.Json.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Trace\bin\Debug\Newtonsoft.Json.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Trace\obj\Debug\Trace.csproj.AssemblyReference.cache
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Trace\obj\Debug\Trace.csproj.CoreCompileInputs.cache
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Trace\obj\Debug\Trace.csproj.CopyComplete
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Trace\obj\Debug\Cryogatt.RFID.Trace.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\Trace\obj\Debug\Cryogatt.RFID.Trace.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Trace\bin\Debug\Cryogatt.RFID.Trace.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Trace\bin\Debug\Cryogatt.RFID.Trace.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Trace\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Trace\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Trace\obj\Debug\Trace.csproj.AssemblyReference.cache
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Trace\obj\Debug\Trace.csproj.CoreCompileInputs.cache
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Trace\obj\Debug\Trace.csproj.Up2Date
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Trace\obj\Debug\Cryogatt.RFID.Trace.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\Trace\obj\Debug\Cryogatt.RFID.Trace.pdb

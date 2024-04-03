@@ -1,0 +1,9 @@
+C:\Users\rnwokeji\source\repos\CryogattServer\Trace\bin\Release\Cryogatt.RFID.Trace.dll
+C:\Users\rnwokeji\source\repos\CryogattServer\Trace\bin\Release\Cryogatt.RFID.Trace.pdb
+C:\Users\rnwokeji\source\repos\CryogattServer\Trace\bin\Release\Newtonsoft.Json.dll
+C:\Users\rnwokeji\source\repos\CryogattServer\Trace\bin\Release\Newtonsoft.Json.xml
+C:\Users\rnwokeji\source\repos\CryogattServer\Trace\obj\Release\Trace.csproj.AssemblyReference.cache
+C:\Users\rnwokeji\source\repos\CryogattServer\Trace\obj\Release\Trace.csproj.CoreCompileInputs.cache
+C:\Users\rnwokeji\source\repos\CryogattServer\Trace\obj\Release\Trace.csproj.CopyComplete
+C:\Users\rnwokeji\source\repos\CryogattServer\Trace\obj\Release\Cryogatt.RFID.Trace.dll
+C:\Users\rnwokeji\source\repos\CryogattServer\Trace\obj\Release\Cryogatt.RFID.Trace.pdb

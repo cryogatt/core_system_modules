@@ -1,0 +1,9 @@
+C:\Users\rnwokeji\source\repos\CryogattServer\BusinessRules\ContainerIdents\bin\Release\ContainerTypes.dll
+C:\Users\rnwokeji\source\repos\CryogattServer\BusinessRules\ContainerIdents\bin\Release\ContainerTypes.pdb
+C:\Users\rnwokeji\source\repos\CryogattServer\BusinessRules\ContainerIdents\bin\Release\Newtonsoft.Json.dll
+C:\Users\rnwokeji\source\repos\CryogattServer\BusinessRules\ContainerIdents\bin\Release\Newtonsoft.Json.xml
+C:\Users\rnwokeji\source\repos\CryogattServer\BusinessRules\ContainerIdents\obj\Release\ContainerTypes.csproj.AssemblyReference.cache
+C:\Users\rnwokeji\source\repos\CryogattServer\BusinessRules\ContainerIdents\obj\Release\ContainerTypes.csproj.CoreCompileInputs.cache
+C:\Users\rnwokeji\source\repos\CryogattServer\BusinessRules\ContainerIdents\obj\Release\ContainerTypes.csproj.CopyComplete
+C:\Users\rnwokeji\source\repos\CryogattServer\BusinessRules\ContainerIdents\obj\Release\ContainerTypes.dll
+C:\Users\rnwokeji\source\repos\CryogattServer\BusinessRules\ContainerIdents\obj\Release\ContainerTypes.pdb

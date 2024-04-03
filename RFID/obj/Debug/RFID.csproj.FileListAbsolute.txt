@@ -1,0 +1,18 @@
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\RFID\bin\Debug\RFID.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\RFID\bin\Debug\RFID.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\RFID\bin\Debug\Newtonsoft.Json.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\RFID\bin\Debug\Newtonsoft.Json.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\RFID\obj\Debug\RFID.csproj.AssemblyReference.cache
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\RFID\obj\Debug\RFID.csproj.CoreCompileInputs.cache
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\RFID\obj\Debug\RFID.csproj.CopyComplete
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\RFID\obj\Debug\RFID.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\RFID\obj\Debug\RFID.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\RFID\bin\Debug\RFID.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\RFID\bin\Debug\RFID.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\RFID\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\RFID\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\RFID\obj\Debug\RFID.csproj.AssemblyReference.cache
+C:\Users\rnwokeji\Desktop\server\core_system_modules\RFID\obj\Debug\RFID.csproj.CoreCompileInputs.cache
+C:\Users\rnwokeji\Desktop\server\core_system_modules\RFID\obj\Debug\RFID.csproj.Up2Date
+C:\Users\rnwokeji\Desktop\server\core_system_modules\RFID\obj\Debug\RFID.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\RFID\obj\Debug\RFID.pdb

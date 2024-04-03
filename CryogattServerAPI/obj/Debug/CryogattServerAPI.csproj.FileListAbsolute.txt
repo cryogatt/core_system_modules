@@ -1,0 +1,394 @@
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\CryogattServerAPI.dll.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\CryogattServerAPI.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\CryogattServerAPI.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\CryogattServerAPI.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\csc.exe
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\csc.exe.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\csc.rsp
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\csi.exe
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\csi.exe.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\csi.rsp
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\System.AppContext.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\System.Console.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\System.IO.Compression.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\System.Net.Http.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\System.Net.Sockets.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\System.ValueTuple.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\System.Xml.XPath.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\vbc.exe
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\vbc.exe.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\vbc.rsp
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\VBCSCompiler.exe
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Antlr3.Runtime.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\CommonEF.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Container.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\ContainerDAL.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\ContainerLevels.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\ContainerProcessor.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\ContainerTypes.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\CryptSharp.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Distribution.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\DistributionDAL.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\DistributionService.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\EntityFramework.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\EntityFramework.SqlServer.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\History.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\HistoryDAL.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\HistoryService.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Material.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\MaterialDAL.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\MaterialService.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Microsoft.IdentityModel.Logging.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Microsoft.IdentityModel.Tokens.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Microsoft.Owin.Cors.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Microsoft.Owin.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Microsoft.Owin.Security.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Microsoft.Owin.Security.Jwt.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Mono.Reflection.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Newtonsoft.Json.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Owin.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\RFID.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Services.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\StorageHierarchy.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\StorageOperations.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Swashbuckle.Core.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Configuration.ConfigurationManager.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Net.Http.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Net.Http.Formatting.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Security.AccessControl.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Security.Cryptography.Algorithms.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Security.Cryptography.Encoding.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Security.Cryptography.Primitives.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Security.Cryptography.X509Certificates.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Security.Permissions.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Security.Principal.Windows.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Web.Cors.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Web.Helpers.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Web.Http.Cors.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Web.Http.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Web.Http.Owin.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Web.Http.WebHost.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Web.Mvc.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Web.Optimization.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Web.Razor.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Web.WebPages.Deployment.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Web.WebPages.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Web.WebPages.Razor.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Unity.Abstractions.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Unity.AspNet.WebApi.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Unity.Container.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\User.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\UserProcessor.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\UsersEF.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\WebActivatorEx.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\WebGrease.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\PickList.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Cryogatt.RFID.Trace.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\ContainerTypes.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\ContainerLevels.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\StorageHierarchy.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\StorageHierarchy.dll.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\CommonEF.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\CommonEF.dll.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Services.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\ContainerDAL.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\ContainerDAL.dll.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\ContainerProcessor.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Container.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Container.dll.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\DistributionDAL.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\DistributionDAL.dll.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\DistributionService.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Distribution.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Distribution.dll.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\HistoryDAL.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\HistoryDAL.dll.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\HistoryService.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\History.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\MaterialDAL.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\MaterialDAL.dll.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\MaterialService.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Material.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Material.dll.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\RFID.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\StorageOperations.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\UserProcessor.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\UsersEF.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\UsersEF.dll.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\User.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\User.dll.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Antlr3.Runtime.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\CryptSharp.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\CryptSharp.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\EntityFramework.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\EntityFramework.SqlServer.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Microsoft.IdentityModel.Logging.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Microsoft.IdentityModel.Logging.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Microsoft.IdentityModel.Tokens.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Microsoft.Owin.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Microsoft.Owin.Cors.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Microsoft.Owin.Security.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Microsoft.Owin.Security.Jwt.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Newtonsoft.Json.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Net.Http.Formatting.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Web.Helpers.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Web.Http.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Web.Http.Cors.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Web.Http.Owin.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Web.Http.WebHost.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Web.Mvc.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Web.Optimization.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Web.Razor.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Web.WebPages.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Web.WebPages.Deployment.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\System.Web.WebPages.Razor.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\PickList.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\PickList.dll.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\bin\Cryogatt.RFID.Trace.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\obj\Debug\CryogattServerAPI.csproj.AssemblyReference.cache
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\obj\Debug\CryogattServerAPI.csproj.CoreCompileInputs.cache
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\obj\Debug\CryogattServerAPI.csproj.CopyComplete
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\obj\Debug\CryogattServerAPI.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\CryogattServerAPI\obj\Debug\CryogattServerAPI.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\CryogattServerAPI.dll.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\CryogattServerAPI.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\CryogattServerAPI.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\CryogattServerAPI.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\csc.exe
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\csc.exe.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\csc.rsp
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\csi.exe
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\csi.exe.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\csi.rsp
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\System.AppContext.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\System.Console.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\vbc.exe
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\vbc.exe.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\vbc.rsp
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Antlr3.Runtime.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\CommonEF.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Container.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\ContainerDAL.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\ContainerLevels.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\ContainerProcessor.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\ContainerTypes.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\CryptSharp.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Distribution.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\DistributionDAL.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\DistributionService.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\EntityFramework.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\History.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\HistoryDAL.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\HistoryService.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Material.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\MaterialDAL.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\MaterialService.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Microsoft.Owin.Cors.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Microsoft.Owin.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Mono.Reflection.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Newtonsoft.Json.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Owin.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\RFID.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Services.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\StorageHierarchy.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\StorageOperations.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Swashbuckle.Core.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Net.Http.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Security.AccessControl.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Security.Permissions.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Security.Principal.Windows.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Web.Cors.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Web.Helpers.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Web.Http.Cors.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Web.Http.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Web.Http.Owin.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Web.Mvc.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Web.Optimization.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Web.Razor.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Web.WebPages.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Unity.Abstractions.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Unity.AspNet.WebApi.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Unity.Container.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\User.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\UserProcessor.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\UsersEF.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\WebActivatorEx.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\WebGrease.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\PickList.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Cryogatt.RFID.Trace.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\ContainerTypes.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\ContainerLevels.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\StorageHierarchy.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\StorageHierarchy.dll.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\CommonEF.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\CommonEF.dll.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Services.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\ContainerDAL.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\ContainerDAL.dll.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\ContainerProcessor.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Container.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Container.dll.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\DistributionDAL.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\DistributionDAL.dll.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\DistributionService.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Distribution.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Distribution.dll.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\HistoryDAL.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\HistoryDAL.dll.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\HistoryService.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\History.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\MaterialDAL.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\MaterialDAL.dll.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\MaterialService.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Material.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Material.dll.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\RFID.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\StorageOperations.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\UserProcessor.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\UsersEF.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\UsersEF.dll.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\User.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\User.dll.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Antlr3.Runtime.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\CryptSharp.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\CryptSharp.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\EntityFramework.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Microsoft.Owin.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Microsoft.Owin.Cors.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Newtonsoft.Json.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Web.Helpers.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Web.Http.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Web.Http.Cors.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Web.Http.Owin.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Web.Mvc.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Web.Optimization.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Web.Razor.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Web.WebPages.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\PickList.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\PickList.dll.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\bin\Cryogatt.RFID.Trace.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\obj\Debug\CryogattServerAPI.csproj.AssemblyReference.cache
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\obj\Debug\CryogattServerAPI.csproj.CoreCompileInputs.cache
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\obj\Debug\Cryogatt.86131295.Up2Date
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\obj\Debug\CryogattServerAPI.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\CryogattServerAPI\obj\Debug\CryogattServerAPI.pdb

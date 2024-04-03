@@ -1,0 +1,9 @@
+C:\Users\rnwokeji\source\repos\CryogattServer\RFID\bin\Release\RFID.dll
+C:\Users\rnwokeji\source\repos\CryogattServer\RFID\bin\Release\RFID.pdb
+C:\Users\rnwokeji\source\repos\CryogattServer\RFID\bin\Release\Newtonsoft.Json.dll
+C:\Users\rnwokeji\source\repos\CryogattServer\RFID\bin\Release\Newtonsoft.Json.xml
+C:\Users\rnwokeji\source\repos\CryogattServer\RFID\obj\Release\RFID.csproj.AssemblyReference.cache
+C:\Users\rnwokeji\source\repos\CryogattServer\RFID\obj\Release\RFID.csproj.CoreCompileInputs.cache
+C:\Users\rnwokeji\source\repos\CryogattServer\RFID\obj\Release\RFID.csproj.CopyComplete
+C:\Users\rnwokeji\source\repos\CryogattServer\RFID\obj\Release\RFID.dll
+C:\Users\rnwokeji\source\repos\CryogattServer\RFID\obj\Release\RFID.pdb

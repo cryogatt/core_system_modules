@@ -1,0 +1,36 @@
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\ContainerTypesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\ContainerTypesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\ContainerTypesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\ContainerTypesTest\bin\Debug\ContainerTypesTest.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\ContainerTypesTest\bin\Debug\ContainerTypesTest.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\ContainerTypesTest\bin\Debug\ContainerTypes.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\ContainerTypesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\ContainerTypesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\ContainerTypesTest\bin\Debug\Newtonsoft.Json.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\ContainerTypesTest\bin\Debug\ContainerTypes.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\ContainerTypesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\ContainerTypesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\ContainerTypesTest\bin\Debug\Newtonsoft.Json.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\ContainerTypesTest\obj\Debug\ContainerTypesTest.csproj.AssemblyReference.cache
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\ContainerTypesTest\obj\Debug\ContainerTypesTest.csproj.CoreCompileInputs.cache
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\ContainerTypesTest\obj\Debug\ContainerTypesTest.csproj.CopyComplete
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\ContainerTypesTest\obj\Debug\ContainerTypesTest.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\ContainerTypesTest\obj\Debug\ContainerTypesTest.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\ContainerTypesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\ContainerTypesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\ContainerTypesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\ContainerTypesTest\bin\Debug\ContainerTypesTest.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\ContainerTypesTest\bin\Debug\ContainerTypesTest.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\ContainerTypesTest\bin\Debug\ContainerTypes.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\ContainerTypesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\ContainerTypesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\ContainerTypesTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\ContainerTypesTest\bin\Debug\ContainerTypes.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\ContainerTypesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\ContainerTypesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\ContainerTypesTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\ContainerTypesTest\obj\Debug\ContainerTypesTest.csproj.AssemblyReference.cache
+C:\Users\rnwokeji\Desktop\server\core_system_modules\ContainerTypesTest\obj\Debug\ContainerTypesTest.csproj.CoreCompileInputs.cache
+C:\Users\rnwokeji\Desktop\server\core_system_modules\ContainerTypesTest\obj\Debug\Containe.DF695627.Up2Date
+C:\Users\rnwokeji\Desktop\server\core_system_modules\ContainerTypesTest\obj\Debug\ContainerTypesTest.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\ContainerTypesTest\obj\Debug\ContainerTypesTest.pdb

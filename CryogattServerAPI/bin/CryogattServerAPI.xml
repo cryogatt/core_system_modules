@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CryogattServerAPI</name>
+    </assembly>
+    <members>
+        <member name="T:CryogattServerAPI.UnityConfig">
+            <summary>
+            Specifies the Unity configuration for the main container.
+            </summary>
+        </member>
+        <member name="P:CryogattServerAPI.UnityConfig.Container">
+            <summary>
+            Configured Unity Container.
+            </summary>
+        </member>
+        <member name="M:CryogattServerAPI.UnityConfig.RegisterTypes(Unity.IUnityContainer)">
+            <summary>
+            Registers the type mappings with the Unity container.
+            </summary>
+            <param name="container">The unity container to configure.</param>
+            <remarks>
+            There is no need to register concrete types such as controllers or
+            API controllers (unless you want to change the defaults), as Unity
+            allows resolving a concrete type even if it was not previously
+            registered.
+            </remarks>
+        </member>
+        <member name="T:CryogattServerAPI.UnityWebApiActivator">
+            <summary>
+            Provides the bootstrapping for integrating Unity with WebApi when it is hosted in ASP.NET.
+            </summary>
+        </member>
+        <member name="M:CryogattServerAPI.UnityWebApiActivator.Start">
+            <summary>
+            Integrates Unity when the application starts.
+            </summary>
+        </member>
+        <member name="M:CryogattServerAPI.UnityWebApiActivator.Shutdown">
+            <summary>
+            Disposes the Unity container when the application is shut down.
+            </summary>
+        </member>
+        <member name="M:CryogattServerAPI.Controllers.TenByOneBookingOperationsController.PostPrimaryContainer(System.String,Infrastructure.Material.DTOs.PrimaryContainersResponseBody)">
+            <summary>
+             Post a new primary container record
+            </summary>
+            <param name="uid">batch type</param>
+            <param name="newSample"></param>
+            The id of batch
+            <returns></returns>
+        </member>
+        <member name="M:CryogattServerAPI.Controllers.BookingOperationsController.GetTypeDesc(System.Int32)">
+            <summary>
+                GET: api/Reader/{containerType_id}
+            </summary>
+            <param name="uid"></param> The ident_id written to the tag
+            <returns>container type for tag not stored in the database.</returns>
+        </member>
+        <member name="M:CryogattServerAPI.Controllers.BookingOperationsController.GetRFIDResponse">
+            <summary>
+                GET: api/BookingOperations?UIDS={uid,uid,..} 
+            </summary>
+            <returns>List of container records</returns>
+        </member>
+        <member name="M:CryogattServerAPI.Controllers.BookingOperationsController.PostPrimaryContainer(System.String,Infrastructure.Material.DTOs.PrimaryContainersResponseBody)">
+            <summary>
+             Post a new primary container record
+            </summary>
+            <param name="uid">batch type</param>
+            <param name="newSample"></param>
+            The id of batch
+            <returns></returns>
+        </member>
+        <member name="M:CryogattServerAPI.Controllers.BoxBookingOperationsController.PostPrimaryContainer(System.String,Infrastructure.Material.DTOs.PrimaryContainersResponseBody)">
+            <summary>
+             Post a new primary container record
+            </summary>
+            <param name="uid">batch type</param>
+            <param name="newSample"></param>
+            The id of batch
+            <returns></returns>
+        </member>
+        <member name="M:CryogattServerAPI.Controllers.ContainerIdentsController.GetGeneralNonRFIDEnabledContainers">
+            <summary>
+             GET: api/v1/ContainerIdents
+            </summary>
+            <returns>All General types that are none RFID enabled for a given level (Defaults to Root Level)</returns>
+        </member>
+        <member name="M:CryogattServerAPI.Controllers.ContainerIdentsController.Getsubtypes(System.UInt16)">
+            <summary>
+            GET: api/v1/ContainerIdents/uid - where uid is general type ident.
+            </summary>
+            <param name="uid"></param>
+            <returns>All Subtypes that are none RFID enabled belonging to the given general type</returns>
+        </member>
+        <member name="M:CryogattServerAPI.Controllers.ContainerLevelController.GetContainerContentsLevel(System.String)">
+            GET: api/v1/ContainerLevel/uid (Get the types of contents for a given container using its uid)
+            i.e Does this container have samples inside 
+            Assumes all contents are of the same level.
+        </member>
+        <member name="M:CryogattServerAPI.Controllers.ContainerLevelController.GetContainerLevel">
+            GET: api/v1/ContainerLevel?TAGIDENT={ident}
+            Get the level for a given Ident
+        </member>
+        <member name="M:CryogattServerAPI.Controllers.ContainersController.PostNewContainer(System.String,Infrastructure.Container.DTOs.ContainerResponseBody)">
+            <summary>
+            Add new Container record
+            </summary>
+            <param name="uid"></param> Used as ethier as the uid of the parent for storage and set to the uid of the newContainer when not stored
+            <param name="newContainer"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CryogattServerAPI.Controllers.ContainersController.PutContainer(System.String,Infrastructure.Container.DTOs.ContainerResponseBody)">
+            <summary>
+            PUT: api/Containers/uid (edited edittedContainer) - where uid is the Container.Uid field
+            </summary>
+            <param name="uid"></param>
+            <param name="edittedContainer"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CryogattServerAPI.Controllers.ContentsController.GetContents(System.Int32)">
+            <summary>
+                GET: api/v1/Contents?STATUS?{SITE/SHIPMENT}/{uid}
+                Where uid is the primary key of the shipment.
+            </summary>
+            <param name="uid"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CryogattServerAPI.Controllers.HistoryController.PostAuditCheckPoint(System.String)">
+            <summary>
+                POST: api/v1/History/{UID}
+            </summary>
+            <param name="uid"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CryogattServerAPI.Controllers.HistoryController.PostAuditCheckPoints(System.Collections.Generic.List{System.String})">
+            <summary>
+            Enter checkpoints for a list of items that belong to the same parent
+            </summary>
+            <param name="uid">The 'reason' for checkpoint</param>
+            <param name="uids">The uids of the tags</param>
+            <returns></returns>
+        </member>
+        <member name="M:CryogattServerAPI.Controllers.ImportExportController.GetExportRecords">
+            <summary>
+                GET: api/v1/ExportRecords
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CryogattServerAPI.Controllers.NonRFIDEnabledContainersController.PostContainer(Infrastructure.Container.DTOs.ContainerResponseBody)">
+            POST: /api/NonRFIDEnabledContainers
+            TODO - Extend for addition of ContainsQtty, etc.
+        </member>
+        <member name="M:CryogattServerAPI.Controllers.PrimaryContainersController.GetStoredPrimaryContainers(System.String)">
+            GET: api/v1/PrimaryContainers/{uid} 
+            Get all samples that belong to a given parent whoose uid is the argument
+        </member>
+        <member name="M:CryogattServerAPI.Controllers.RFIDController.POSTRFIDResponse(System.Collections.Generic.List{System.String})">
+            <summary>
+            POST: api/RFID 
+            </summary>
+            <returns>List of RFID records</returns>
+        </member>
+        <member name="M:CryogattServerAPI.Controllers.ShippingController.GetCourier(System.String)">
+            <summary>
+            Get the courier record for the shipper uid
+            </summary>
+            <param name="uid">The shipper uid</param>
+            <returns>CourierResponseBody</returns>
+        </member>
+        <member name="M:CryogattServerAPI.Controllers.SitesController.GetAllSites">
+            <summary>
+                GET: api/v1/Sites
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CryogattServerAPI.Controllers.UsersController.GetUsers">
+            <summary>
+                GET: api/v1/Users
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CryogattServerAPI.Controllers.UsersController.GetUsers(System.Int32)">
+            <summary>
+                GET: api/v1/Users/id
+            </summary>
+            <param name="uid"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CryogattServerAPI.Controllers.UsersController.PutUsers(System.Int32,Infrastructure.Users.DTOs.UserResponseBody)">
+            <summary>
+                PUT: api/Users/id (edited user).
+            </summary>
+            <param name="uid"></param>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CryogattServerAPI.Controllers.UsersController.DeleteUser(System.Collections.Generic.List{System.Int32})">
+            <summary>
+                DELETE api/Users
+            </summary>
+            <param name="users"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CryogattServerAPI.Controllers.UsersController.PostUser(Infrastructure.Users.DTOs.UserResponseBody)">
+            <summary>
+                POST: api/Users(new user).
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CryogattServerAPI.Formatters.ExternalDataCSVFormatter.WriteItem(Infrastructure.Material.DTOs.AliquotResponseBody,System.IO.StreamWriter)">
+            <summary>
+            Write a single ExternalData record to the streamwriter
+            </summary>
+            <param name="datum">The data record</param>
+            <param name="writer">The stream writer</param>
+        </member>
+        <member name="M:CryogattServerAPI.Formatters.ExternalDataCSVFormatter.Escape(System.Object)">
+            <summary>
+            Escape special character in an object
+            </summary>
+            <param name="o">The object</param>
+            <returns>The escaped string</returns>
+        </member>
+        <member name="M:CryogattServerAPI.Formatters.ExternalDataCSVFormatter.ParseLine(System.String)">
+            <summary>
+            Parse a line from the csv and return a populated ExternalData data structure
+            </summary>
+            <param name="line">The line from the CSV file</param>
+            <returns>The populated ExternalData structure</returns>
+        </member>
+        <member name="P:CryogattServerAPI.IUnitOfWork.ContainerManager">
+            <summary>
+                Access to Container records.
+            </summary>
+        </member>
+        <member name="P:CryogattServerAPI.IUnitOfWork.HistoryManager">
+            <summary>
+                Access to History records.
+            </summary>
+        </member>
+        <member name="P:CryogattServerAPI.IUnitOfWork.MaterialManager">
+            <summary>
+                Access to Material records.
+            </summary>
+        </member>
+        <member name="P:CryogattServerAPI.IUnitOfWork.UserManager">
+            <summary>
+                Access to user records.
+            </summary>
+        </member>
+        <member name="P:CryogattServerAPI.IUnitOfWork.RuleContainerLevelCalculator">
+            <summary>
+                Access to the container level rules with respect to their type.
+            </summary>
+        </member>
+        <member name="P:CryogattServerAPI.IUnitOfWork.RuleStorageHierarchyCalculator">
+            <summary>
+                Access to the storage heirarchy rules.
+            </summary>
+        </member>
+        <member name="P:CryogattServerAPI.IUnitOfWork.StorageOperationsManager">
+            <summary>
+                Access to the storage manager for storage operations.
+            </summary>
+        </member>
+        <member name="P:CryogattServerAPI.IUnitOfWork.DistributionManager">
+            <summary>
+                Access to the shipping/order records.
+            </summary>
+        </member>
+        <member name="M:CryogattServerAPI.Middleware.CustomJwtFormat.#ctor(System.String)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="_issuer"></param>
+        </member>
+    </members>
+</doc>

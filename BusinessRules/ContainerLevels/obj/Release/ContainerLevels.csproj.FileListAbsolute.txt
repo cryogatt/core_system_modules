@@ -1,0 +1,9 @@
+C:\Users\rnwokeji\source\repos\CryogattServer\BusinessRules\ContainerLevels\bin\Release\ContainerLevels.dll
+C:\Users\rnwokeji\source\repos\CryogattServer\BusinessRules\ContainerLevels\bin\Release\ContainerLevels.pdb
+C:\Users\rnwokeji\source\repos\CryogattServer\BusinessRules\ContainerLevels\bin\Release\Newtonsoft.Json.dll
+C:\Users\rnwokeji\source\repos\CryogattServer\BusinessRules\ContainerLevels\bin\Release\Newtonsoft.Json.xml
+C:\Users\rnwokeji\source\repos\CryogattServer\BusinessRules\ContainerLevels\obj\Release\ContainerLevels.csproj.AssemblyReference.cache
+C:\Users\rnwokeji\source\repos\CryogattServer\BusinessRules\ContainerLevels\obj\Release\ContainerLevels.csproj.CoreCompileInputs.cache
+C:\Users\rnwokeji\source\repos\CryogattServer\BusinessRules\ContainerLevels\obj\Release\ContainerLevels.csproj.CopyComplete
+C:\Users\rnwokeji\source\repos\CryogattServer\BusinessRules\ContainerLevels\obj\Release\ContainerLevels.dll
+C:\Users\rnwokeji\source\repos\CryogattServer\BusinessRules\ContainerLevels\obj\Release\ContainerLevels.pdb

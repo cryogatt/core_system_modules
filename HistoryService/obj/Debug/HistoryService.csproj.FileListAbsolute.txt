@@ -1,0 +1,56 @@
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\bin\Debug\HistoryService.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\bin\Debug\HistoryService.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\bin\Debug\Container.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\bin\Debug\History.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\bin\Debug\Newtonsoft.Json.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\bin\Debug\Services.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\bin\Debug\User.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\bin\Debug\ContainerLevels.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\bin\Debug\EntityFramework.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\bin\Debug\ContainerTypes.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\bin\Debug\CryptSharp.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\bin\Debug\Services.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\bin\Debug\Container.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\bin\Debug\Container.dll.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\bin\Debug\History.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\bin\Debug\User.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\bin\Debug\User.dll.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\bin\Debug\Newtonsoft.Json.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\bin\Debug\ContainerLevels.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\bin\Debug\EntityFramework.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\bin\Debug\ContainerTypes.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\bin\Debug\CryptSharp.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\bin\Debug\CryptSharp.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\obj\Debug\HistoryService.csproj.AssemblyReference.cache
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\obj\Debug\HistoryService.csproj.CoreCompileInputs.cache
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\obj\Debug\HistoryService.csproj.CopyComplete
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\obj\Debug\HistoryService.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\HistoryService\obj\Debug\HistoryService.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\bin\Debug\HistoryService.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\bin\Debug\HistoryService.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\bin\Debug\Container.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\bin\Debug\History.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\bin\Debug\Services.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\bin\Debug\User.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\bin\Debug\ContainerLevels.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\bin\Debug\EntityFramework.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\bin\Debug\ContainerTypes.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\bin\Debug\CryptSharp.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\bin\Debug\Services.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\bin\Debug\Container.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\bin\Debug\Container.dll.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\bin\Debug\History.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\bin\Debug\User.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\bin\Debug\User.dll.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\bin\Debug\ContainerLevels.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\bin\Debug\EntityFramework.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\bin\Debug\ContainerTypes.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\bin\Debug\CryptSharp.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\bin\Debug\CryptSharp.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\obj\Debug\HistoryService.csproj.AssemblyReference.cache
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\obj\Debug\HistoryService.csproj.CoreCompileInputs.cache
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\obj\Debug\HistoryS.E02856D0.Up2Date
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\obj\Debug\HistoryService.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\HistoryService\obj\Debug\HistoryService.pdb

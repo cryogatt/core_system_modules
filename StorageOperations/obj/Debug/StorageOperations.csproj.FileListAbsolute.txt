@@ -1,0 +1,80 @@
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\StorageOperations.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\StorageOperations.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\Container.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\ContainerLevels.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\ContainerTypes.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\Distribution.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\History.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\Newtonsoft.Json.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\RFID.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\StorageHierarchy.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\User.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\ContainerProcessor.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\Services.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\EntityFramework.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\CryptSharp.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\Cryogatt.RFID.Trace.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\ContainerTypes.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\ContainerLevels.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\StorageHierarchy.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\StorageHierarchy.dll.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\Container.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\Container.dll.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\Distribution.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\Distribution.dll.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\History.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\RFID.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\User.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\User.dll.config
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\Newtonsoft.Json.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\ContainerProcessor.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\Services.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\EntityFramework.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\CryptSharp.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\CryptSharp.xml
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\bin\Debug\Cryogatt.RFID.Trace.pdb
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\obj\Debug\StorageOperations.csproj.AssemblyReference.cache
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\obj\Debug\StorageOperations.csproj.CoreCompileInputs.cache
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\obj\Debug\StorageOperations.csproj.CopyComplete
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\obj\Debug\StorageOperations.dll
+C:\NEWDEV\web devlopment\seed bank\web\CryogattServer\StorageOperations\obj\Debug\StorageOperations.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\StorageOperations.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\StorageOperations.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\Container.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\ContainerLevels.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\ContainerTypes.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\Distribution.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\History.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\RFID.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\StorageHierarchy.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\User.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\ContainerProcessor.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\Services.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\EntityFramework.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\CryptSharp.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\Cryogatt.RFID.Trace.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\ContainerTypes.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\ContainerLevels.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\StorageHierarchy.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\StorageHierarchy.dll.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\Container.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\Container.dll.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\Distribution.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\Distribution.dll.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\History.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\RFID.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\User.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\User.dll.config
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\ContainerProcessor.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\Services.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\EntityFramework.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\CryptSharp.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\CryptSharp.xml
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\bin\Debug\Cryogatt.RFID.Trace.pdb
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\obj\Debug\StorageOperations.csproj.AssemblyReference.cache
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\obj\Debug\StorageOperations.csproj.CoreCompileInputs.cache
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\obj\Debug\StorageO.65405CC2.Up2Date
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\obj\Debug\StorageOperations.dll
+C:\Users\rnwokeji\Desktop\server\core_system_modules\StorageOperations\obj\Debug\StorageOperations.pdb

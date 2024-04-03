@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rnwokeji\\Desktop\\server\\core_system_modules\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{994D78D2-1C25-4E51-BF0F-BC2938CA78FE}|CommonEF\\CommonEF.csproj|c:\\users\\rnwokeji\\desktop\\server\\core_system_modules\\commonef\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{994D78D2-1C25-4E51-BF0F-BC2938CA78FE}|CommonEF\\CommonEF.csproj|solutionrelative:commonef\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994D78D2-1C25-4E51-BF0F-BC2938CA78FE}|CommonEF\\CommonEF.csproj|c:\\users\\rnwokeji\\desktop\\server\\core_system_modules\\commonef\\migrations\\201911201112029_attributefieldlength.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{994D78D2-1C25-4E51-BF0F-BC2938CA78FE}|CommonEF\\CommonEF.csproj|solutionrelative:commonef\\migrations\\201911201112029_attributefieldlength.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A6E02D-223C-4502-8067-D4AE5FEE2919}|UsersEF.Tests\\UsersDAL.Tests.csproj|C:\\Users\\rnwokeji\\Desktop\\server\\core_system_modules\\usersef.tests\\userrepository.tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A6E02D-223C-4502-8067-D4AE5FEE2919}|UsersEF.Tests\\UsersDAL.Tests.csproj|solutionrelative:usersef.tests\\userrepository.tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596D1F4F-0F82-4369-B668-730F9BC33916}|CryogattServerAPI\\CryogattServerAPI.csproj|C:\\Users\\rnwokeji\\Desktop\\server\\core_system_modules\\cryogattserverapi\\controllers\\aliquotscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596D1F4F-0F82-4369-B668-730F9BC33916}|CryogattServerAPI\\CryogattServerAPI.csproj|solutionrelative:cryogattserverapi\\controllers\\aliquotscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596D1F4F-0F82-4369-B668-730F9BC33916}|CryogattServerAPI\\CryogattServerAPI.csproj|c:\\users\\rnwokeji\\desktop\\server\\core_system_modules\\cryogattserverapi\\app_start\\unitywebapiactivator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596D1F4F-0F82-4369-B668-730F9BC33916}|CryogattServerAPI\\CryogattServerAPI.csproj|solutionrelative:cryogattserverapi\\app_start\\unitywebapiactivator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2DC318-2FA7-4BB2-8F5F-65E7A8BB6CAE}|Presentation{2D2DC318-2FA7-4BB2-8F5F-65E7A8BB6CAE}|CryogattServerAPI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47558BFF-0CE8-4AD6-9048-CFC6E3989AB5}|Trace\\Trace.csproj|C:\\Users\\rnwokeji\\Desktop\\server\\core_system_modules\\trace\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47558BFF-0CE8-4AD6-9048-CFC6E3989AB5}|Trace\\Trace.csproj|solutionrelative:trace\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596D1F4F-0F82-4369-B668-730F9BC33916}|CryogattServerAPI\\CryogattServerAPI.csproj|c:\\users\\rnwokeji\\desktop\\server\\core_system_modules\\cryogattserverapi\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\rnwokeji\\Desktop\\server\\core_system_modules\\CommonEF\\App.config",
+              "RelativeDocumentMoniker": "CommonEF\\App.config",
+              "ToolTip": "C:\\Users\\rnwokeji\\Desktop\\server\\core_system_modules\\CommonEF\\App.config",
+              "RelativeToolTip": "CommonEF\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-03T10:13:15.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "201911201112029_AttributeFieldLength.resx",
+              "DocumentMoniker": "C:\\Users\\rnwokeji\\Desktop\\server\\core_system_modules\\CommonEF\\Migrations\\201911201112029_AttributeFieldLength.resx",
+              "RelativeDocumentMoniker": "CommonEF\\Migrations\\201911201112029_AttributeFieldLength.resx",
+              "ToolTip": "C:\\Users\\rnwokeji\\Desktop\\server\\core_system_modules\\CommonEF\\Migrations\\201911201112029_AttributeFieldLength.resx",
+              "RelativeToolTip": "CommonEF\\Migrations\\201911201112029_AttributeFieldLength.resx",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAAHgAAABrBwAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-03T10:12:42.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnityWebApiActivator.cs",
+              "DocumentMoniker": "C:\\Users\\rnwokeji\\Desktop\\server\\core_system_modules\\CryogattServerAPI\\App_Start\\UnityWebApiActivator.cs",
+              "RelativeDocumentMoniker": "CryogattServerAPI\\App_Start\\UnityWebApiActivator.cs",
+              "ToolTip": "C:\\Users\\rnwokeji\\Desktop\\server\\core_system_modules\\CryogattServerAPI\\App_Start\\UnityWebApiActivator.cs",
+              "RelativeToolTip": "CryogattServerAPI\\App_Start\\UnityWebApiActivator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T16:34:32.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CryogattServerAPI",
+              "DocumentMoniker": "C:\\Users\\rnwokeji\\Desktop\\server\\core_system_modules\\CryogattServerAPI\\CryogattServerAPI.csproj",
+              "RelativeDocumentMoniker": "CryogattServerAPI\\CryogattServerAPI.csproj",
+              "ToolTip": "C:\\Users\\rnwokeji\\Desktop\\server\\core_system_modules\\CryogattServerAPI\\CryogattServerAPI.csproj",
+              "RelativeToolTip": "CryogattServerAPI\\CryogattServerAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-02T16:21:30.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AliquotsController.cs",
+              "DocumentMoniker": "C:\\Users\\rnwokeji\\Desktop\\server\\core_system_modules\\CryogattServerAPI\\Controllers\\AliquotsController.cs",
+              "RelativeDocumentMoniker": "CryogattServerAPI\\Controllers\\AliquotsController.cs",
+              "ToolTip": "C:\\Users\\rnwokeji\\Desktop\\server\\core_system_modules\\CryogattServerAPI\\Controllers\\AliquotsController.cs",
+              "RelativeToolTip": "CryogattServerAPI\\Controllers\\AliquotsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:03:06.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\rnwokeji\\Desktop\\server\\core_system_modules\\Trace\\Log.cs",
+              "RelativeDocumentMoniker": "Trace\\Log.cs",
+              "ToolTip": "C:\\Users\\rnwokeji\\Desktop\\server\\core_system_modules\\Trace\\Log.cs",
+              "RelativeToolTip": "Trace\\Log.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAABRwCQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:58:42.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.Tests.cs",
+              "DocumentMoniker": "C:\\Users\\rnwokeji\\Desktop\\server\\core_system_modules\\UsersEF.Tests\\UserRepository.Tests.cs",
+              "RelativeDocumentMoniker": "UsersEF.Tests\\UserRepository.Tests.cs",
+              "ToolTip": "C:\\Users\\rnwokeji\\Desktop\\server\\core_system_modules\\UsersEF.Tests\\UserRepository.Tests.cs",
+              "RelativeToolTip": "UsersEF.Tests\\UserRepository.Tests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T17:42:27.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
