@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CryogattServer/FileContentIndex/95c6ae45-c8cd-44fa-a04d-edac0366a638.vsidx
+/BusinessRules/ContainerIdents/obj/Debug/ContainerTypes.csproj.FileListAbsolute.txt
+/BusinessRules/ContainerLevels/obj/Debug/ContainerLevels.csproj.FileListAbsolute.txt
+/BusinessRules/StorageHierarchy/obj/Debug/StorageHierarchy.csproj.FileListAbsolute.txt
+/BusinessRules/Tests/ContainerLevelsTest/obj/Debug/ContainerLevelsTest.csproj.FileListAbsolute.txt
+/Common/obj/Debug/Services.csproj.FileListAbsolute.txt
+/CommonEF/obj/Debug/CommonEF.csproj.FileListAbsolute.txt
+/Container/obj/Debug/Container.csproj.FileListAbsolute.txt
+/ContainerDAL/obj/Debug/ContainerDAL.csproj.FileListAbsolute.txt
+/.vs/CryogattServer/FileContentIndex
