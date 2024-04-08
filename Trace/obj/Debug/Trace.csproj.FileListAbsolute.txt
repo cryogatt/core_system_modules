@@ -16,3 +16,12 @@ C:\Users\rnwokeji\Desktop\server\core_system_modules\Trace\obj\Debug\Trace.cspro
 C:\Users\rnwokeji\Desktop\server\core_system_modules\Trace\obj\Debug\Trace.csproj.Up2Date
 C:\Users\rnwokeji\Desktop\server\core_system_modules\Trace\obj\Debug\Cryogatt.RFID.Trace.dll
 C:\Users\rnwokeji\Desktop\server\core_system_modules\Trace\obj\Debug\Cryogatt.RFID.Trace.pdb
+C:\Users\rnwokeji\Desktop\inqaba\core_system_modules\Trace\bin\Debug\Cryogatt.RFID.Trace.dll
+C:\Users\rnwokeji\Desktop\inqaba\core_system_modules\Trace\bin\Debug\Cryogatt.RFID.Trace.pdb
+C:\Users\rnwokeji\Desktop\inqaba\core_system_modules\Trace\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rnwokeji\Desktop\inqaba\core_system_modules\Trace\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rnwokeji\Desktop\inqaba\core_system_modules\Trace\obj\Debug\Trace.csproj.AssemblyReference.cache
+C:\Users\rnwokeji\Desktop\inqaba\core_system_modules\Trace\obj\Debug\Trace.csproj.CoreCompileInputs.cache
+C:\Users\rnwokeji\Desktop\inqaba\core_system_modules\Trace\obj\Debug\Trace.csproj.Up2Date
+C:\Users\rnwokeji\Desktop\inqaba\core_system_modules\Trace\obj\Debug\Cryogatt.RFID.Trace.dll
+C:\Users\rnwokeji\Desktop\inqaba\core_system_modules\Trace\obj\Debug\Cryogatt.RFID.Trace.pdb

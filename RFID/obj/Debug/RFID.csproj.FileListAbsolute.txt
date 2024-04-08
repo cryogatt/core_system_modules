@@ -16,3 +16,12 @@ C:\Users\rnwokeji\Desktop\server\core_system_modules\RFID\obj\Debug\RFID.csproj.
 C:\Users\rnwokeji\Desktop\server\core_system_modules\RFID\obj\Debug\RFID.csproj.Up2Date
 C:\Users\rnwokeji\Desktop\server\core_system_modules\RFID\obj\Debug\RFID.dll
 C:\Users\rnwokeji\Desktop\server\core_system_modules\RFID\obj\Debug\RFID.pdb
+C:\Users\rnwokeji\Desktop\inqaba\core_system_modules\RFID\bin\Debug\RFID.dll
+C:\Users\rnwokeji\Desktop\inqaba\core_system_modules\RFID\bin\Debug\RFID.pdb
+C:\Users\rnwokeji\Desktop\inqaba\core_system_modules\RFID\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rnwokeji\Desktop\inqaba\core_system_modules\RFID\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rnwokeji\Desktop\inqaba\core_system_modules\RFID\obj\Debug\RFID.csproj.AssemblyReference.cache
+C:\Users\rnwokeji\Desktop\inqaba\core_system_modules\RFID\obj\Debug\RFID.csproj.CoreCompileInputs.cache
+C:\Users\rnwokeji\Desktop\inqaba\core_system_modules\RFID\obj\Debug\RFID.csproj.Up2Date
+C:\Users\rnwokeji\Desktop\inqaba\core_system_modules\RFID\obj\Debug\RFID.dll
+C:\Users\rnwokeji\Desktop\inqaba\core_system_modules\RFID\obj\Debug\RFID.pdb

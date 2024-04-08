@@ -560,7 +560,7 @@ namespace MaterialDAL
         /// <param name="endDate"></param>
         ///  <param name="crop"></param>
         /// <returns></returns>
-       
+
         public List<AliquotResponseBody> GetAllSiteSamples(int siteId)
         {
             Log.Debug("Invoked");

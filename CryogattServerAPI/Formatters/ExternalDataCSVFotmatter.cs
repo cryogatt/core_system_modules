@@ -36,7 +36,9 @@ namespace CryogattServerAPI.Formatters
             "Safety Duplication Qty," +
             "Viabilty Culture Date," +
             "Regrowth Date," +
-            "...,";
+            "Regrowth Rate," +
+            "SN," 
+            ;
 
         public ExternalDataCSVFormatter()
         {
