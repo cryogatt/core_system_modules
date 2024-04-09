@@ -30,11 +30,10 @@ namespace CryogattServerAPI.Formatters
             "Introduction Date," +
             "Health Status," +
             "Cryo Date," +
-            "Qtty Cryo," +
+            "Viabilty Culture Date," +
             "Viability Tested Qty," +
             "Cryobank Qty," +
             "Safety Duplication Qty," +
-            "Viabilty Culture Date," +
             "Regrowth Date," +
             "Regrowth Rate," +
             "SN," 
@@ -158,7 +157,8 @@ namespace CryogattServerAPI.Formatters
             // Set Material properties
             foreach (MaterialInfoResponseBody d in datum.Material)
             {
-                writer.Write(Escape(d.AttributeValueName) + ",");
+                if(d.AttributeFieldName!= "Viabilty Culture Date")
+                    writer.Write(Escape(d.AttributeValueName) + ",");
             }
 
             // Add new line
